@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm iDev 👋!
+i like to code in my free time. i mainly code(Privately) in C#.
+###### My Hobbies:
+- 🔢 Math
+- 💾Code
+- 📷Influencer
+- and more
 
-<!--
-**iDevYT/iDevYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### The Software That i use:
 
-Here are some ideas to get you started:
+1. Visual Studio Code
+2. Node.js
+3. Visual Studio
+4. Git
+5. GitHub Desktop
+6. Electron Fiddle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### The Languages That i use:
+1. HTML5
+2. CSS
+3. JS
+4. C# ***my fav lang***
+5. VB
+6. JAVA(Private)
+###### Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=iDevYT&show_icons=true)
+
+###### Socials
+- [YouTube](https://www.youtube.com/channel/UCwYJtY18T2n7fysL7qJeB2g)
+- [Twitter](https://twitter.com/INSPIREDevelop1)
+- [Instagram](https://www.instagram.com/idevinsta/)
+- [Tiktok](https://www.tiktok.com/@inspiredeveloper)
