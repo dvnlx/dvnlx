@@ -25,7 +25,6 @@ i like to code in my free time. i mainly code(Privately) in C#.
 ###### Stats
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=iDevYT&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevYT)
 
 ###### Socials
