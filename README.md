@@ -1,4 +1,4 @@
-# Hi there, I'm iDev 👋!
+# Hi there, I'm David👋!
 i like to code in my free time. i mainly code(Privately) in C#.
 ###### My Hobbies:
 - 🔢 Math
