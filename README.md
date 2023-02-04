@@ -1,10 +1,7 @@
 # Hi there, I'm David👋!
 i like to code in my free time. i mainly code(Privately) in C#.
 ###### My Hobbies:
-- 🔢 Math
-- 💾Code
-- 📷Influencer
-- and more
+- Tech and Programming
 
 ###### The Software That i use:
 
