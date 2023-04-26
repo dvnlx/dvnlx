@@ -21,8 +21,8 @@ i like to code in my free time. i mainly code(Privately) in C#.
 6. JAVA(Private)
 ###### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnlx)
-![My Stats](https://github-readme-stats.vercel.app/api?username=dvnlx&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvnlx&show_icons=true&theme=transparent)
+![My Stats](https://github-readme-stats.vercel.app/api?username=dvnlx&show_icons=true&theme=transparent)
 
 ###### Socials
 - [YouTube](https://www.youtube.com/channel/UCwYJtY18T2n7fysL7qJeB2g)
