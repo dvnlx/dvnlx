@@ -17,10 +17,10 @@ I'm David (dvnlx) and a Full-Stack Developer!!!
 
 # Socials ![catos <3](https://nukocities.neocities.org/nuko/act/cat212.gif)
 
-![tiktok](https://img.shields.io/badge/tiktok-%40dvnlx.dev-black?logo=tiktok&link=https%3A%2F%2Fwww.tiktok.com%2F%40dvnlx.dev)
+[![tiktok](https://img.shields.io/badge/tiktok-%40dvnlx.dev-black?logo=tiktok&link=https%3A%2F%2Fwww.tiktok.com%2F%40dvnlx.dev)](https://tiktok.com/@dvnlx.dev)
 
-![website](https://img.shields.io/badge/website-dvnlx.github.io-blue?logo=github&link=https%3A%2F%2Fdvnlx.github.io%2F)
+[![website](https://img.shields.io/badge/website-dvnlx.github.io-blue?logo=github&link=https%3A%2F%2Fdvnlx.github.io%2F)](https://dvnlx.github.io)
 
-![youtube](https://img.shields.io/badge/youtube-dvnlx.youtube-red?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwYJtY18T2n7fysL7qJeB2g)
+[![youtube](https://img.shields.io/badge/youtube-dvnlx.youtube-red?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwYJtY18T2n7fysL7qJeB2g)](https://www.youtube.com/channel/UCwYJtY18T2n7fysL7qJeB2g)
 
-![Static Badge](https://img.shields.io/badge/discord-project_novagon-purple?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FsX6axTgqMZ)
+[![Static Badge](https://img.shields.io/badge/discord-project_novagon-purple?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FsX6axTgqMZ)](https://discord.gg/EV55g8sC)
