@@ -27,3 +27,13 @@ Lead Executor at [Novagon](https://github.com/project-novagon)
 [![youtube](https://img.shields.io/badge/youtube-dvnlx.youtube-red?logo=youtube&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwYJtY18T2n7fysL7qJeB2g)](https://www.youtube.com/channel/UCwYJtY18T2n7fysL7qJeB2g)
 
 [![Static Badge](https://img.shields.io/badge/discord-project_novagon-purple?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FsX6axTgqMZ)](https://discord.gg/EV55g8sC)
+
+# Fav Traims! ![catos whishle](https://nukocities.neocities.org/nuko/act/cat100.gif)
+
+- ICE 4
+- ICE 3
+- ICE 1
+- BR 101
+- Class 700/0
+- Class 377
+- Class 465
