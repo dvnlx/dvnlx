@@ -28,7 +28,7 @@ Lead Executor at [Novagon](https://github.com/project-novagon)
 
 [![Static Badge](https://img.shields.io/badge/discord-project_novagon-purple?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FsX6axTgqMZ)](https://discord.gg/EV55g8sC)
 
-# Fav Traims! ![catos whishle](https://nukocities.neocities.org/nuko/act/cat100.gif)
+# Fav Trains! ![catos whishle](https://nukocities.neocities.org/nuko/act/cat100.gif)
 
 - ICE 4
 - ICE 3
