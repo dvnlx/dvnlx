@@ -37,3 +37,5 @@ Lead Executor at [Novagon](https://github.com/project-novagon)
 - Class 700/0
 - Class 377
 - Class 465
+
+(novagon is best)
