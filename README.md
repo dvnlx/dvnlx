@@ -16,8 +16,6 @@ Lead Executor at [Novagon](https://github.com/project-novagon)
 # Stats   ![catos spinning](https://nukocities.neocities.org/nuko/act/cat4.gif)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=dvnlx&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dvnlx&theme=dark&hide_border=true&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
-
 # Socials ![catos <3](https://nukocities.neocities.org/nuko/act/cat212.gif)
 
 [![tiktok](https://img.shields.io/badge/tiktok-%40dvnlx.dev-black?logo=tiktok&link=https%3A%2F%2Fwww.tiktok.com%2F%40dvnlx.dev)](https://tiktok.com/@dvnlx.dev)
