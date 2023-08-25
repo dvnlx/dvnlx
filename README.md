@@ -1,6 +1,6 @@
 # ![catos on computer ](https://nukocities.neocities.org/nuko/act/cat34.gif) HAII!!! :3  [<img align="right" src="https://github.com/mkukiro/mkukiro/blob/main/kuro.png?raw=true" width="30px" height="30px">](https://github.com/mkukiro)
 
-I'm David (dvnlx) and a Full-Stack Developer!!! <3
+I'm David (dvnlx) and a Front-End Developer!!! <3
 
 Lead Executor at [Novagon](https://github.com/project-novagon)
 
