@@ -28,12 +28,14 @@ Lead Executor at [Novagon](https://github.com/project-novagon)
 
 # Fav Trains! ![catos whishle](https://nukocities.neocities.org/nuko/act/cat100.gif)
 
-- ICE 4
-- ICE 3
-- ICE 1
-- BR 101
-- Class 700/0
-- Class 377
-- Class 465
+- ICE 3 🇩🇪
+- ICE 4 🇩🇪
+- BR 442🇩🇪
+- ICE 1 🇩🇪
+- BR 101🇩🇪
+- Class 395  🇬🇧
+- Class 700/0🇬🇧
+- Class 377  🇬🇧
+- Class 465  🇬🇧
 
 (novagon is best)
